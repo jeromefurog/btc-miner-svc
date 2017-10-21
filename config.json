@@ -1,0 +1,11 @@
+{
+    "user" : "user_name",
+    "password" : "Pa$$w0rd",
+    "host" : "127.0.0.1:8332",
+    "account" : "MyBTCAccount",
+    "log": {
+        "Activated": true,
+        "Level": "info",
+        "File": ""
+    }
+}
